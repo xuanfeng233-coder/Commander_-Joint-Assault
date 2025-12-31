@@ -42,7 +42,7 @@ This project was developed 100% through prompts and AI collaboration. No manual 
 | **Take Over** | `T` (When spectating) | "Take Over" Button |
 
 ### 🚀 How to Play
-1.  Download the `Commander_Joint_Assault-version3.2.html` file.
+1.  Download the `Commander_Joint_Assault-version3.2.1.html` file.
 2.  Double-click the file to open it in any modern web browser (Chrome, Edge, Firefox, Safari).
 3.  Configure your team settings in the boot menu and click **[ INITIATE LAUNCH ]**.
 
@@ -86,7 +86,7 @@ You are free to use, modify, and distribute this software, provided that any net
 | **接管单位** | 观察时按 `T` | "接管单位" 按钮 |
 
 ### 🚀 如何开始
-1.  下载 `Commander_Joint_Assault-version3.2.html` 文件。
+1.  下载 `Commander_Joint_Assault-version3.2.1.html` 文件。
 2.  双击文件，使用任意现代浏览器（Chrome, Edge, Firefox, Safari）打开即可直接运行。
 3.  在启动界面配置蓝红双方兵力，点击 **[ 开始行动 ]**。
 
