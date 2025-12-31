@@ -1,4 +1,4 @@
-# Commander: Joint Assault (v3.3) / 指挥官：联合突击
+# Commander: Joint Assault (v3.2.1) / 指挥官：联合突击
 
 ![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)
 ![AI Generated](https://img.shields.io/badge/AI-Generated-green)
